@@ -7,7 +7,7 @@ export const INITIAL_PROFILE: UserProfile = {
   avatar: "https://lh3.googleusercontent.com/d/1zA-juipd9qjJ8ljmZ5-CHpJBczzXabfM",
   email: "robsonjeffersonrocha@gmail.com",
   instagram: "rjefferxz",
-  whatsapp: "5511999999999",
+  whatsapp: "556399704795",
   whatsappMessage: "Oi!\nCheguei pelo seu link no Instagram e quero contratar seus serviços de comunicação/social media.\nMe conta como funciona?",
   driveLink: "https://drive.google.com/drive/folders/1ohAfJ_aybS5bA4FiLDv_MHZtxeC7s3sT?usp=drive_link"
 };
